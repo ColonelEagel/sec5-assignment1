@@ -1,0 +1,26 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "NodeJS assihnment (section 5: working with express )",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColonelEagel/sec5-assignment1.git"
+  },
+  "keywords": [
+    "sec5-assignment1"
+  ],
+  "author": "Mohammed Darwesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColonelEagel/sec5-assignment1/issues"
+  },
+  "homepage": "https://github.com/ColonelEagel/sec5-assignment1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
